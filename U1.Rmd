@@ -1,0 +1,27 @@
+---
+title: "Principios de Electricidad y Magnetismo"
+---
+
+## Concepto, efectos e importancia de la electricidad.
+
+## Métodos de producción de energía eléctrica.
+
+### Práctica 1. Batería casera.
+
+__Material__:
+
+- Limones.
+
+- Tornillos o clavos galvanizados, uno por cada limón.
+
+- Trozos o monedas de cobre, uno por cada limón.
+
+- Cables tipo caimán, mínimo 5.
+
+- Un LED.
+
+
+
+## Aplicaciones prácticas de la electricidad.
+
+## Conceptos de corriente directa y alterna

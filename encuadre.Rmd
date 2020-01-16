@@ -1,0 +1,17 @@
+---
+title: "Encuadre"
+---
+
+## Propósito de aprendizaje de la asignatura
+
+El alumno describirá el comportamiento de fenómenos eléctricos y magnéticos con base en las leyes y teorías de la física que los sustentan para comprender los principios de operación de los sistemas eléctricos.
+
+## Contenido temático
+
+UNIDAD I. Electricidad y Magnetismo.
+
+UNIDAD II. Electrostática.
+
+UNIDAD III. Electrocinética.
+
+UNIDAD IV. Fuentes de campo magnético.
