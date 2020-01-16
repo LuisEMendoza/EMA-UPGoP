@@ -4,6 +4,10 @@ title: "Principios de Electricidad y Magnetismo"
 
 ## Concepto, efectos e importancia de la electricidad.
 
+### Ley de Coulomb
+
+![](images/meme-001.jpg)
+
 ## Métodos de producción de energía eléctrica.
 
 ### Práctica 1. Batería casera.
