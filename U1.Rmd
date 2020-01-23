@@ -4,6 +4,73 @@ title: "Principios de Electricidad y Magnetismo"
 
 ## Concepto, efectos e importancia de la electricidad.
 
+Año 2000 A.C. Magnesia, Grecia.
+
+- Se descubren las propiedades magnéticas de la __magnetita__.
+
+Año 600 A.C. Mileto.
+
+- Frotar ámbar con seda o vidrio con lana. Concepto de _electro_.
+
+Siglo I. China.
+
+- Se inventa la brújula.
+
+Siglo X. España.
+
+Alhazén y Kamal Farisi proponen que los colores visibles son el reflejo de la luz blanca sobre los cuerpos.
+
+1600. Gran Bretaña.
+
+- William Gilbert realiza un estudio detallado de los fenómenos magnéticos y lo publica como _De Magnete_.
+
+1672. Alemania.
+
+- Otto von Guericke construye un generador electrostático con una esfera de azufre y una manivela, generando la carga con la mano.
+
+Siglo XVIII. Italia.
+
+- Se conocen dos tipos de electricidad: la __atmosférica__ (descargas de los rayos) y la __artificial__ (mediante frotación). 
+
+- Máquinas electrostáticas y __Botellas de Layden__.
+
+- Galvani propone un tercer tipo: la electricidad __animal__, para lo cual utilizaba patas de rana y generadores electrostáticos.
+
+- Uso del sistema patas-cable como detector de electricidad _atmosférica_.
+
+- Volta y el __electróforo__, construido por influencia de tejidos diferentes de peces que generan electricidad: la pila.
+
+- La ausencia de imanes con polos aislados impide relacionar el magnetismo con la electricidad.
+
+Siglo XVIII. Francia.
+
+- Charles Coulomb idea una manera matemática de expresar la fuerza magnética.
+
+Siglo XIX. Estados Unidos.
+
+- Benjamin Franklin inventa el pararrayos y un detector de tormentas.
+
+Siglo XIX. Dinamarca.
+
+- Christian Örsted observa la perturbación de una brújula al acercarle un circuito eléctrico.
+
+Siglo XIX. Gran Bretaña y Estados Unidos.
+
+- Michael Faraday y Joseph Henry, generan corriente eléctrica acercando un imán a un circuito eléctrico. Faraday crea el prototipo de motor eléctrico.
+
+1837. Estados Unidos.
+
+- Thomas Davenport construye el primer motor eléctrico útil.
+
+1850. Gran Bretaña.
+
+- James Maxwell propone la teoría del Electromagnetismo, sintetizada en cuatro ecuaciones.
+
+1960. 
+
+- Theodore Maiman obtiene el láser mediante un rubí, un par de espejos y una lámpara flash.
+
+
 ### Ley de Coulomb
 
 ![](images/meme-001.jpg)
