@@ -154,6 +154,12 @@ La energía eléctrica se aprovecha de diversas maneras. Es capaz de transmitir 
 
 ### Luz 
 
+Recordemos que el átomo (en su modelo más básico, como el de Bohr), consiste de un núcleo de carga positiva que se encuentra rodeado de electrones que giran en órbitas circulares discretas con determinada energía, que llamaremos $E_n$, alrededor del núcleo. 
+
+![](images/Bohr-001.png)
+
+Un electrón puede ser excitado de una órbita de baja a una de más alta energía, es decir, desde las órbitas más cercanas hasta las más lejanas), mediante transferencia de energía. Los electrones excitados no se quedarán mucho tiempo así y regresarán a una órbita de menor energía, __emitiendo luz__ en el proceso. La energía necesaria para excitar un electrón entre órbitas cercanas es pequeña mientras que a las más alejadas se requiere más energía. La unidad básica de la luz se conoce como fotón. La energía del fotón (que llamaremos $E_{foton}$), está dada por $E_{foton}=hc/l$, donde $h$ es la constante de Planck ($h=6.63×10^{-34}\ Joules\cdot seg$), $c$ es la velocidad de la luz en el vacio ($c=3×10^8 m/s$) y $l$ es la longitud de onda de la luz, típicamente medida en nanómetros ($10^{-9}m=1 nm$) o micrómetros ($10^-6}m= 1 \mu m$).
+
 El flujo eléctrico en el vacío y pasando a través de ciertos materiales causa lo que se conoce como incandescencia, fenómeno aprovechado en las bombillas y focos. Se explica porque al pasar por el filamento de un foco, los electrones generan ondas electromagnéticas visibles (o partículas conocidas como fotones), comprendidas en un rango entre 400 y 700nm, es decir, una franja muy pequeña.
 
 ![](images/diagrama-002.png)
