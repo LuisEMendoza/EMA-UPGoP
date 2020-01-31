@@ -34,6 +34,10 @@ Siglo XVIII. Italia.
 
 - Máquinas electrostáticas y __Botellas de Layden__.
 
+1707. Inglaterra.
+
+- Francis Hauksbee generó por ionización electrostática del vapor de mercurio una luz azulada que alcanzaba para leer un escrito.
+
 - Galvani propone un tercer tipo: la electricidad __animal__, para lo cual utilizaba patas de rana y generadores electrostáticos.
 
 - Uso del sistema patas-cable como detector de electricidad _atmosférica_.
@@ -41,6 +45,10 @@ Siglo XVIII. Italia.
 - Volta y el __electróforo__, construido por influencia de tejidos diferentes de peces que generan electricidad: la pila.
 
 - La ausencia de imanes con polos aislados impide relacionar el magnetismo con la electricidad.
+
+1856. Alemania.
+
+- Heinrich Geissler construyó en 1856 un dispositivo mediante el cual obtuvo una luz de brillo azulado a partir de un gas enrarecido encerrado en un tubo y excitado con una descarga eléctrica.
 
 Siglo XVIII. Francia.
 
@@ -69,6 +77,14 @@ Siglo XIX. Gran Bretaña y Estados Unidos.
 1850. Gran Bretaña.
 
 - James Maxwell propone la teoría del Electromagnetismo, sintetizada en cuatro ecuaciones.
+
+1855. Alemania.
+
+- Se registra la bombilla eléctrica a Heinrich Göbel.
+
+1893. Estados Unidos.
+
+- Fueron mostrados dispositivos fluorescentes desarrollados por Nikola Tesla.
 
 1960. 
 
@@ -160,12 +176,19 @@ Recordemos que el átomo (en su modelo más básico, como el de Bohr), consiste 
 
 Un electrón puede ser excitado de una órbita de baja a una de más alta energía, es decir, desde las órbitas más cercanas hasta las más lejanas), mediante transferencia de energía. Los electrones excitados no se quedarán mucho tiempo así y regresarán a una órbita de menor energía, __emitiendo luz__ en el proceso. La energía necesaria para excitar un electrón entre órbitas cercanas es pequeña mientras que a las más alejadas se requiere más energía. La unidad básica de la luz se conoce como fotón. La energía del fotón (que llamaremos $E_{foton}$), está dada por $E_{foton}=hf$, donde $h$ es la constante de Planck ($h=6.63×10^{-34}\ Joules\cdot seg$) y $f$ es la frecuencia de la onda. Como estamos hablando de luz, entonces $f=c/l$, donde $c$ es la velocidad de la luz en el vacio ($c=3×10^8 m/s$) y $l$ es la longitud de onda de la luz, típicamente medida en nanómetros ($10^{-9}m=1 nm$) o micrómetros ($10^{-6}m= 1 \mu m$).
 
-Ya que existen muchos niveles en los cuales un electrón puede ser excitado y desexcitado, fotones de diferentes longitudes de onda (colores) pueden ser emitidos. Es común medir la energía de los fotones en electronvolts (eV) y para convertirla de Joules a eV sólo se toma la energía del fotón y se divide por la carga del electrón, así, la energía de la luz verde es 2.48 eV, mientras que la energía de luz ultravioleta (l=300 nm) es 4.14 eV.
+Ya que existen muchos niveles en los cuales un electrón puede ser excitado y desexcitado, fotones de diferentes longitudes de onda (colores) pueden ser emitidos. Es común medir la energía de los fotones en electronvolts (eV) y para convertirla de Joules a eV sólo se toma la energía del fotón y se divide por la carga del electrón $(−1,6 × 10^−19 C$).
 
 ![](images/diagrama-002.png)
 
+En este diagrama puede observarse que la luz visible se encuentra en un rango de 400 hasta 700nm. Más allá de los 700nm se encuentra la radiación térmica, el «calor», llegando hasta 100,000nm. Podemos concluir que a mayor longitud de onda, menos dañinas son las ondas electromagnéticas. Por otro lado, la luz de onda muy corta puede ser bastante nociva, ya que además de ser ionizantes (poseen la suficiente energía como para expulsar electrones de los átomos, formando _iones_), rompen enlaces y causan mutaciones.
 
 El flujo eléctrico en el vacío y pasando a través de ciertos materiales causa lo que se conoce como incandescencia, fenómeno aprovechado en las bombillas y focos. Se explica porque al pasar por el filamento de un foco, los electrones generan ondas electromagnéticas visibles (o partículas conocidas como fotones), comprendidas en un rango entre 400 y 700nm, es decir, una franja muy pequeña.
+
+![](images/foco-001.png)
+
+En el caso de los diodos emisores de luz, se produce luz por el movimiento de los electrones entre los dos polos del diodo, lo que ocurre debido a un proceso llamado electroluminiscencia. Cuando un diodo emisor de luz se conecta eléctricamente, los electrones comienzan a moverse en la unión de los semiconductores de tipo N y de tipo P dentro del diodo. Cuando hay un salto de electrones en la unión p-n, el electrón pierde una porción de su energía. En los diodos normales, esta pérdida de energía es en forma de calor. Sin embargo, en los LED el tipo específico de conductores tipo N y P producen fotones (luz) en lugar de calor. La cantidad de energía perdida define el color de la luz producida.
+
+Las lámparas fluorescentes funcionan diferente. Están compuestas de un tubo de vidrio revestido interiormente por materiales conocidos como _fósforos_, los cuales son compuestos. ya sea de _metales de transición_ o de los elementos conocidos como _tierras raras_.
 
 
 ### Calor
