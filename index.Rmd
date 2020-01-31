@@ -7,3 +7,7 @@ title: "Universidad Politécnica de Gómez Palacio"
 ## Asignatura
 
 ### __Electricidad y Magnetismo__
+
+$$
+\huge \nabla \cdot E= \frac{\rho}{\epsilon_0}
+$$

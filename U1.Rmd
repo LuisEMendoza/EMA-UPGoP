@@ -232,9 +232,6 @@ El recubrimiento interno del tubo filtra la luz ultravioleta y la convierte en v
 
 En el caso de los diodos emisores de luz, se produce luz por el movimiento de los electrones entre los dos polos del diodo, lo que ocurre debido a un proceso llamado electroluminiscencia. Cuando un diodo emisor de luz se conecta eléctricamente, los electrones comienzan a moverse en la unión de los semiconductores de tipo N y de tipo P dentro del diodo. Cuando hay un salto de electrones en la unión p-n, el electrón pierde una porción de su energía. En los diodos normales, esta pérdida de energía es en forma de calor. Sin embargo, en los LED el tipo específico de conductores tipo N y P producen fotones (luz) en lugar de calor. La cantidad de energía perdida define el color de la luz producida.
 
-
-
-
 ### Calor
 
 El paso de los electrones a través de un conductor genera energía calórica, lo cual es conocido como el _efecto Joule_. Este es aprovechado por resistencias para calentar, cocinar e incluso soldar materiales. La energía térmica o calorífica puede calcularse mediante la ecuación:
