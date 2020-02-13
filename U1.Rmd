@@ -305,27 +305,3 @@ Motor paso a paso (mediante impulsos eléctricos gira solo una determinada canti
 Servomotor (es un motor paso a paso optimizado, con mayor control de la posición)
 
 Motor sin núcleo (no cuenta con rotor de hierro, por contra cuenta con un rotor plano, en forma de disco, muy útil porque no presenta una inercia considerable)
-
-
-
-### Ley de Coulomb
-
-![](images/meme-001.jpg)
-
-## Métodos de producción de energía eléctrica.
-
-### Práctica 1. Batería casera.
-
-__Material__:
-
-- Limones.
-
-- Tornillos o clavos galvanizados, uno por cada limón.
-
-- Trozos o monedas de cobre, uno por cada limón.
-
-- Cables tipo caimán, mínimo 5.
-
-- Un LED.
-
-## Conceptos de corriente directa y alterna

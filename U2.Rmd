@@ -1,0 +1,10 @@
+---
+title: "Electrostática"
+output: html_document
+---
+
+## Carga eléctrica
+
+Las partículas cuentan con una propiedad conocida como _carga eléctrica_, habiéndose identificado tres tipos: la positiva (+), la negativa (-) y la neutra. Su estudio tiene ciertas analogías con la gravedad, por ejemplo, la aceleración causada por las fuerzas gravitacionales tiene su semejanza con la aceleración que las fuerzas eléctricas causan en las propias partículas.Incluso una ley tan importante como la __Ley de Coulomb__ parece calcada de otra, la de la fuerza gravitacional de Newton:
+
+![](images/meme-001.jpg)
