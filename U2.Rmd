@@ -8,3 +8,86 @@ output: html_document
 Las partículas cuentan con una propiedad conocida como _carga eléctrica_, habiéndose identificado tres tipos: la positiva (+), la negativa (-) y la neutra. Su estudio tiene ciertas analogías con la gravedad, por ejemplo, la aceleración causada por las fuerzas gravitacionales tiene su semejanza con la aceleración que las fuerzas eléctricas causan en las propias partículas.Incluso una ley tan importante como la __Ley de Coulomb__ parece calcada de otra, la de la fuerza gravitacional de Newton:
 
 ![](images/meme-001.jpg)
+
+A estas alturas podemos recordar que dos partículas con cargas iguales se repelen, mientras que si son de cargas opuestas se atraen entre sí. Comparemos la fuerza eléctrica con la fuerza gravitacional:
+
+#### Ejercicio 1
+
+Una partícula $\alpha$ es el núcleo de un átomo de helio. Tiene una masa de $m=6.64 \times 10^{-27}kg$ y una carga de $q=+2e=3.2\times 10^{-19}C$. ¿Qué tan diferentes son entre sí ambas fuerzas entre dos partículas $\alpha$? 
+
+##### Solución 1
+
+Debemos comparar ambas fuerzas, por lo que lo que vamos a calcular es la proporción entre ellas. Del meme anterior podemos inferir las fórmulas que utilizaremos, sabiendo que la constante $k$ es igual a:
+
+$$
+k=\frac{1}{4\pi \varepsilon_0}=9.0\times10^9N\cdot m^2/C^2
+$$
+Así, nuestra fórmula para la fuerza eléctrica dada entre dos partículas idénticas queda:
+
+$$
+F_e=\frac{1}{4\pi \varepsilon_0} \frac{q^2}{r^2}=\left (9.0\times10^9N\cdot m^2/C^2\right )\cdot \frac{q^2}{r^2}
+$$
+
+La magnitud de la fuerza gravitacional $F_g$ queda determinada mediante la siguiente expresión:
+
+$$
+F_g=G\frac{m^2}{r^2}=\frac{Gm^2}{r^2}
+$$
+
+Debemos relacionar ambas fuerzas mediante una división:
+
+$$
+\frac{F_e}{F_g}=\frac{\frac{1}{4\pi \varepsilon_0}\cdot \frac{q^2}{r^2}}{\frac{Gm^2}{r^2}}=\frac{1}{4\pi \varepsilon_0} \frac{q^2 r^2}{Gr^2m^2}=\frac{1}{4\pi \varepsilon_0} \frac{q^2}{Gm^2}
+$$
+
+Con esta fórmula ya desarrollada, sustituimos y resolvemos:
+
+$$
+\frac{F_e}{F_g}=\left(9.0\times 10^9N\cdot m^2/C^2 \right)\left[ \frac{ \left(3.2\times 10^{-19}C \right)^2}{\left(6.67\times 10^{-11}N\cdot m^2/kg^2 \right) \left(6.64\times 10^{-27}kg \right)^2} \right]\\
+=\left(9.0\times 10^9N\cdot m^2/C^2 \right)\left[ \frac{ \left(3.2\times 10^{-19}C \right)^2}{\left(2.941\times 10^{-63}\right) } \right]\\
+=\left(9.0\times 10^9N\cdot m^2/C^2 \right)\left[ 34.818\times 10^{24} \right]\\
+=313.362\times 10^{33}
+$$
+
+Notemos que la proporción es demasiado grande, dando como conclusión que a escalas subatómicas podemos considerar despreciable a la fuerza gravitatoria en comparación con la eléctrica.
+
+#### Ejercicio 2
+
+Dos cargas puntuales, $q_1=+25nC$ y $q_2=-75nC$, están separadas por una distancia de $3cm$. Calcule la magnitud y la dirección de la fuerza eléctrica que $q_1$ ejerce sobre $q_2$ y de la fuerza eléctrica que $q_2$ ejerce sobre $q_1$.
+
+##### Solución 2
+
+Convertimos las cargas a Colombios y la distancia a metros y enseguida sustituimos en la fórmula de la fuerza eléctrica:
+
+$$
+F_e=\frac{1}{4\pi \varepsilon_0}\frac{\mid q_1q_2\mid }{r^2}\\
+=\left(9.0\times 10^9N\cdot m^2/C^2 \right) \left[\frac{\mid\left(+25\times 10^{-9}C\right)\left(-75\times 10^{-9}C\right)\mid}{\left(0.03m \right)^2} \right]\\
+=0.019N
+$$
+
+#### Ejercicio 3
+
+Dos cargas puntuales se localizan en el eje $x$ de un sistema de coordenadas. La carga $q_1 = 1.0 nC$ está a $2.0 cm$ del origen, y la carga $q_2 =-3.0 nC$ está a $4.0 cm$ del origen. ¿Cuál es la fuerza total que ejercen estas dos cargas sobre una carga $q_3 = 5.0 nC$ que se encuentra en el origen?
+
+##### Solución 3
+
+$$
+-28\mu N
+$$
+
+#### Ejercicio 4
+
+Dos cargas puntuales iguales y positivas, $q_1 = q_2 = 2.0 \mu C$ se localizan en $x = 0$, $y = 0.30 m$ y $x = 0$, $y = -0.30 m$, respectivamente. ¿Cuáles son la magnitud y la dirección de la fuerza eléctrica total (neta) que ejercen estas cargas sobre una tercera carga, también puntual, $Q = 4.0 \mu C$ en $x = 0.40 m$, $y = 0$?
+
+##### Solución 4
+
+La fuerza tiene dirección en $x$, con magnitud de:
+
+$$
++0.46N
+$$
+
+
+
+
+

@@ -11,7 +11,7 @@
 
 
 
-<title>Universidad Politécnica de Gómez Palacio</title>
+<title>Electrostática</title>
 
 <script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -324,19 +324,79 @@ $(document).ready(function () {
 
 
 
-<h1 class="title toc-ignore">Universidad Politécnica de Gómez Palacio</h1>
+<h1 class="title toc-ignore">Electrostática</h1>
 
 </div>
 
 
-<p><img src="images/logo.jpg" /></p>
-<div id="asignatura" class="section level2">
-<h2>Asignatura</h2>
-<div id="electricidad-y-magnetismo" class="section level3">
-<h3><strong>Electricidad y Magnetismo</strong></h3>
+<div id="carga-eléctrica" class="section level2">
+<h2>Carga eléctrica</h2>
+<p>Las partículas cuentan con una propiedad conocida como <em>carga eléctrica</em>, habiéndose identificado tres tipos: la positiva (+), la negativa (-) y la neutra. Su estudio tiene ciertas analogías con la gravedad, por ejemplo, la aceleración causada por las fuerzas gravitacionales tiene su semejanza con la aceleración que las fuerzas eléctricas causan en las propias partículas.Incluso una ley tan importante como la <strong>Ley de Coulomb</strong> parece calcada de otra, la de la fuerza gravitacional de Newton:</p>
+<p><img src="images/meme-001.jpg" /></p>
+<p>A estas alturas podemos recordar que dos partículas con cargas iguales se repelen, mientras que si son de cargas opuestas se atraen entre sí. Comparemos la fuerza eléctrica con la fuerza gravitacional:</p>
+<div id="ejercicio-1" class="section level4">
+<h4>Ejercicio 1</h4>
+<p>Una partícula <span class="math inline">\(\alpha\)</span> es el núcleo de un átomo de helio. Tiene una masa de <span class="math inline">\(m=6.64 \times 10^{-27}kg\)</span> y una carga de <span class="math inline">\(q=+2e=3.2\times 10^{-19}C\)</span>. ¿Qué tan diferentes son entre sí ambas fuerzas entre dos partículas <span class="math inline">\(\alpha\)</span>?</p>
+<div id="solución-1" class="section level5">
+<h5>Solución 1</h5>
+<p>Debemos comparar ambas fuerzas, por lo que lo que vamos a calcular es la proporción entre ellas. Del meme anterior podemos inferir las fórmulas que utilizaremos, sabiendo que la constante <span class="math inline">\(k\)</span> es igual a:</p>
 <p><span class="math display">\[
-\huge \nabla \cdot E= \frac{\rho}{\epsilon_0}
+k=\frac{1}{4\pi \varepsilon_0}=9.0\times10^9N\cdot m^2/C^2
+\]</span> Así, nuestra fórmula para la fuerza eléctrica dada entre dos partículas idénticas queda:</p>
+<p><span class="math display">\[
+F_e=\frac{1}{4\pi \varepsilon_0} \frac{q^2}{r^2}=\left (9.0\times10^9N\cdot m^2/C^2\right )\cdot \frac{q^2}{r^2}
 \]</span></p>
+<p>La magnitud de la fuerza gravitacional <span class="math inline">\(F_g\)</span> queda determinada mediante la siguiente expresión:</p>
+<p><span class="math display">\[
+F_g=G\frac{m^2}{r^2}=\frac{Gm^2}{r^2}
+\]</span></p>
+<p>Debemos relacionar ambas fuerzas mediante una división:</p>
+<p><span class="math display">\[
+\frac{F_e}{F_g}=\frac{\frac{1}{4\pi \varepsilon_0}\cdot \frac{q^2}{r^2}}{\frac{Gm^2}{r^2}}=\frac{1}{4\pi \varepsilon_0} \frac{q^2 r^2}{Gr^2m^2}=\frac{1}{4\pi \varepsilon_0} \frac{q^2}{Gm^2}
+\]</span></p>
+<p>Con esta fórmula ya desarrollada, sustituimos y resolvemos:</p>
+<p><span class="math display">\[
+\frac{F_e}{F_g}=\left(9.0\times 10^9N\cdot m^2/C^2 \right)\left[ \frac{ \left(3.2\times 10^{-19}C \right)^2}{\left(6.67\times 10^{-11}N\cdot m^2/kg^2 \right) \left(6.64\times 10^{-27}kg \right)^2} \right]\\
+=\left(9.0\times 10^9N\cdot m^2/C^2 \right)\left[ \frac{ \left(3.2\times 10^{-19}C \right)^2}{\left(2.941\times 10^{-63}\right) } \right]\\
+=\left(9.0\times 10^9N\cdot m^2/C^2 \right)\left[ 34.818\times 10^{24} \right]\\
+=313.362\times 10^{33}
+\]</span></p>
+<p>Notemos que la proporción es demasiado grande, dando como conclusión que a escalas subatómicas podemos considerar despreciable a la fuerza gravitatoria en comparación con la eléctrica.</p>
+</div>
+</div>
+<div id="ejercicio-2" class="section level4">
+<h4>Ejercicio 2</h4>
+<p>Dos cargas puntuales, <span class="math inline">\(q_1=+25nC\)</span> y <span class="math inline">\(q_2=-75nC\)</span>, están separadas por una distancia de <span class="math inline">\(3cm\)</span>. Calcule la magnitud y la dirección de la fuerza eléctrica que <span class="math inline">\(q_1\)</span> ejerce sobre <span class="math inline">\(q_2\)</span> y de la fuerza eléctrica que <span class="math inline">\(q_2\)</span> ejerce sobre <span class="math inline">\(q_1\)</span>.</p>
+<div id="solución-2" class="section level5">
+<h5>Solución 2</h5>
+<p>Convertimos las cargas a Colombios y la distancia a metros y enseguida sustituimos en la fórmula de la fuerza eléctrica:</p>
+<p><span class="math display">\[
+F_e=\frac{1}{4\pi \varepsilon_0}\frac{\mid q_1q_2\mid }{r^2}\\
+=\left(9.0\times 10^9N\cdot m^2/C^2 \right) \left[\frac{\mid\left(+25\times 10^{-9}C\right)\left(-75\times 10^{-9}C\right)\mid}{\left(0.03m \right)^2} \right]\\
+=0.019N
+\]</span></p>
+</div>
+</div>
+<div id="ejercicio-3" class="section level4">
+<h4>Ejercicio 3</h4>
+<p>Dos cargas puntuales se localizan en el eje <span class="math inline">\(x\)</span> de un sistema de coordenadas. La carga <span class="math inline">\(q_1 = 1.0 nC\)</span> está a <span class="math inline">\(2.0 cm\)</span> del origen, y la carga <span class="math inline">\(q_2 =-3.0 nC\)</span> está a <span class="math inline">\(4.0 cm\)</span> del origen. ¿Cuál es la fuerza total que ejercen estas dos cargas sobre una carga <span class="math inline">\(q_3 = 5.0 nC\)</span> que se encuentra en el origen?</p>
+<div id="solución-3" class="section level5">
+<h5>Solución 3</h5>
+<p><span class="math display">\[
+-28\mu N
+\]</span></p>
+</div>
+</div>
+<div id="ejercicio-4" class="section level4">
+<h4>Ejercicio 4</h4>
+<p>Dos cargas puntuales iguales y positivas, <span class="math inline">\(q_1 = q_2 = 2.0 \mu C\)</span> se localizan en <span class="math inline">\(x = 0\)</span>, <span class="math inline">\(y = 0.30 m\)</span> y <span class="math inline">\(x = 0\)</span>, <span class="math inline">\(y = -0.30 m\)</span>, respectivamente. ¿Cuáles son la magnitud y la dirección de la fuerza eléctrica total (neta) que ejercen estas cargas sobre una tercera carga, también puntual, <span class="math inline">\(Q = 4.0 \mu C\)</span> en <span class="math inline">\(x = 0.40 m\)</span>, <span class="math inline">\(y = 0\)</span>?</p>
+<div id="solución-4" class="section level5">
+<h5>Solución 4</h5>
+<p>La fuerza tiene dirección en <span class="math inline">\(x\)</span>, con magnitud de:</p>
+<p><span class="math display">\[
++0.46N
+\]</span></p>
+</div>
 </div>
 </div>
 
