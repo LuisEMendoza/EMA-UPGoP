@@ -87,6 +87,13 @@ $$
 +0.46N
 $$
 
+## El campo eléctrico y las fuerzas eléctricas
+
+Es válido preguntarse en algún momento cómo es que las partículas eléctricas saben que están ahí, y aún más, cómo saben que hay alguna otra partícula cerca. Es momento de introducir el concepto de __campo eléctrico__.
+
+
+
+
 
 
 

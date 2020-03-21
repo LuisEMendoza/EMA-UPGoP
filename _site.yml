@@ -14,7 +14,6 @@ navbar:
       - text: "Unidad 2"
         href: U2.html
       - text: "Unidad 3"
-      - text: "Unidad 4"
   - text: "Recursos " 
     menu:
       - text: "UNIDADES"
