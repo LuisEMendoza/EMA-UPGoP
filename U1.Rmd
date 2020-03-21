@@ -286,22 +286,22 @@ Motor síncrono (el rotor gira a la misma velocidad que el campo magnético del 
 
 #### Directa
 
-Motor serie (inducido y devanado inductor conectados en serie)
+__Motor serie__ (inducido y devanado inductor conectados en serie)
 
 ![](images/Motor_serie.jpg)
 
-Motor compound (dos inductores, uno conectado en serie con el inducido y otro en paralelo con el circuito anterior)
+__Motor compound__ (dos inductores, uno conectado en serie con el inducido y otro en paralelo con el circuito anterior)
 
 ![](images/Motor_compuesto.jpg)
 
-Motor Shunt (el inductor está conectado en pparalelo)
+__Motor Shunt__ (el inductor está conectado en pparalelo)
 
 ![](images/Motor_paralelo.jpg)
 
-Motores sin escobillas (no cuentan con las escobillas o anillos rozantes que permiten el cambio de polaridad, dejando esto a circuitos de control digitales)
+__Motores sin escobillas__ (no cuentan con las escobillas o anillos rozantes que permiten el cambio de polaridad, dejando esto a circuitos de control digitales)
 
-Motor paso a paso (mediante impulsos eléctricos gira solo una determinada cantidad de grados)
+__Motor paso a paso__ (mediante impulsos eléctricos gira solo una determinada cantidad de grados)
 
-Servomotor (es un motor paso a paso optimizado, con mayor control de la posición)
+__Servomotor__ (es un motor paso a paso optimizado, con mayor control de la posición)
 
-Motor sin núcleo (no cuenta con rotor de hierro, por contra cuenta con un rotor plano, en forma de disco, muy útil porque no presenta una inercia considerable)
+__Motor sin núcleo__ (no cuenta con rotor de hierro, por contra cuenta con un rotor plano, en forma de disco, muy útil porque no presenta una inercia considerable)
